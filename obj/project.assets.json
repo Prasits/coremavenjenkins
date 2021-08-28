@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RND\\netcore\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\RND\\netcore\\coremavenjenkins\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\RND\\netcore\\WebApplication1.csproj",
+      "projectPath": "D:\\RND\\netcore\\coremavenjenkins\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Prasit\\.nuget\\packages\\",
-      "outputPath": "D:\\RND\\netcore\\obj\\",
+      "outputPath": "D:\\RND\\netcore\\coremavenjenkins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prasit\\AppData\\Roaming\\NuGet\\NuGet.Config",
